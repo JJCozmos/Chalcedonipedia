@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>All About Agates</h1>
+    <h2>
+    <a  href="listAgates.html">List of Agates</a>
+    <br /><a  href="bandTerm.html">Banding terminology</a>
+    <br /><a  href="Formation.html">Formation</a>
+    <br /><a  href="Pigment.html">Pigmentation</a>
+    <br /><a  href="FF.html">Fun Facts</a>
+    <br /><a  href="FF.html">Agate of the Day</a>
+    </h2>
+  </body>
+</html>
